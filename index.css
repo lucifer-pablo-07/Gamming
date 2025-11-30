@@ -1691,21 +1691,21 @@ td h2{
         display: none;
     }
     .slitingright{
-        width: 270px;
-        height: 140px;
+        width: 300px;
+        height: 160px;
         padding: 10px;
     }
     .slitingright button{
         font-size: 20px;
     }
     .smallimg{
-        width: 70px;
-        height: 80px;
-        margin-top: 37px;
+        width: 80px;
+        height: 100px;
+        margin-top: 50px;
     }
     .bgimg{
-        width: 90px;
-        height: 120px;
+        width: 100px;
+        height: 150px;
     }
     .line1{
         width: 180px;
